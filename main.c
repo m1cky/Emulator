@@ -1,9 +1,9 @@
 #include "pri.h"
 
-
+/* WIP */
 
 int main()
 {
-  printf("Cross-computer testing! X: %f Y: %f Z: %f\n", vector.x, vector.y, vector.z);
+  printf("Cross-computer testing!\n");
   return 0;
 }
