@@ -1,4 +1,4 @@
-/*******************************************************************************************/
+/**********************************************************************************/
 				Pri Corporation
 			       Copyright <c> 2013
 			       Linux Kernel 3.8.8
@@ -6,7 +6,27 @@
 	                      Under development();
 
 
-Keywords (WIP):
-	UnCon -> Under Construction
+Keywords:
 	WIP   -> Work in Progress
-/********************************************************************************************/
+	TBP   -> To Be Programmed
+<-----------------------------INSTALLATION GUIDE----------------------------------->
+
+Requirements:
+	GCC
+	GNU Make
+	
+
+1. Download all the files into your installation directory
+
+2. Run 'make'
+   2.1 Include any wanted parameters following the command
+
+3. Run 'make install'
+
+4. To clean up, run 'make clean'
+
+<--------------------------------Parameters---------------------------------------->
+
+WIP
+
+/**********************************************************************************/
