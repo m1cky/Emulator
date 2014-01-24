@@ -27,6 +27,8 @@ Requirements:
 
 <--------------------------------Parameters---------------------------------------->
 
-WIP
-
+CC=(compiler name)
+CFLAGS=(compiler options)
+LDFLAGS=(linker options)
+EXECUTABLE=(filename)
 /**********************************************************************************/
