@@ -18,8 +18,11 @@ Requirements:
 
 1. Download all the files into your installation directory
 
+2. Enter './configure'
+   2.1. Include any necessary parameters
+
 2. Run 'make'
-   2.1 Include any wanted parameters following the command
+   2.1. Include any wanted parameters following the command
 
 3. Run 'make install'
 
@@ -27,8 +30,8 @@ Requirements:
 
 <--------------------------------Parameters---------------------------------------->
 
-CC=(compiler name)
-CFLAGS=(compiler options)
-LDFLAGS=(linker options)
-EXECUTABLE=(filename)
+Autoconf:
+	WIP
+Make:
+	WIP
 /**********************************************************************************/
