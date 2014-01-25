@@ -20,6 +20,7 @@ Requirements:
 
 2. Enter './configure'
    2.1. Include any necessary parameters
+   2.2. If permission is denied, enter 'chmod +x ./configure'
 
 2. Run 'make'
    2.1. Include any wanted parameters following the command
