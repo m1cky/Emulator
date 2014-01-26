@@ -1,9 +1,9 @@
-CC ?= gcc
-CFLAGS=
+CC ?= g++
+CFLAGS+= -g -I/usr/include/SDL -lSDL_mixer
 export CFLAGS
-LDFLAGS=
+LDFLAGS= -lstdc++ -lSDL
 export LDFLAGS
-SOURCES=main.c
+SOURCES=main.cc
 OBJECTS=$(SOURCES:.c=.o)
 EXECUTABLE ?= Pri
 
